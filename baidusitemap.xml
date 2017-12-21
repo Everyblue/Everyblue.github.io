@@ -3,6 +3,9 @@
 
 
     
+    
+    
+    
   <url>
     <loc>http://yoursite.com/posts/25b196e8.html</loc>
     <lastmod>2017-12-20T11:44:30.000Z</lastmod>
@@ -161,9 +164,9 @@
         
         <tag>产品</tag>
          
-        <tag>微信</tag>
-         
         <tag>算法</tag>
+         
+        <tag>微信</tag>
          
          
            
@@ -300,7 +303,4 @@
     </data>
     </url>
 
-    
-    
-    
 </urlset>
